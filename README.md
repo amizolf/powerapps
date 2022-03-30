@@ -15,3 +15,15 @@ https://powerapps.microsoft.com/en-us/communityplan/
 https://admin.powerplatform.microsoft.com/environments 
 
 https://make.powerapps.com/
+
+
+
+# Power Apps Component Framework
+
+https://nodejs.org/en/
+
+Install .NET Framework 4.6.2 Developer Pack
+
+    Navigate to https://dotnet.microsoft.com/download/dotnet-framework/net462 
+    
+    Power Apps CLI version. Use: https://aka.ms/PowerAppsCLI 
